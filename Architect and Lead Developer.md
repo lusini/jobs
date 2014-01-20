@@ -33,5 +33,6 @@ pit+ald.gh@lusini.com.**
 Für Anreisen zu Interviews können wir maximal ein Zugticket 2. Klasse ersetzen.  
 
 ```
-ATTENTION RECRUITERS: Lusini prefers not to work with unsolicited, indirect recruiting. Please refrain from sending candidate profiles, calling, or contacting us via email or social media.
+ATTENTION RECRUITERS: Lusini prefers not to work with unsolicited, indirect recruiting.
+Please refrain from sending candidate profiles, calling, or contacting us via email or social media.
 ```
