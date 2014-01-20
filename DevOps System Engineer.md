@@ -6,16 +6,16 @@ Wir bei Lusini.de entwickeln und betreiben die führende e-Commerce Plattform f�
 
 #### Dein Profil
 * Erfahrung im Betrieb von komplexen Webanwendungen unter Verwendung gängiger OpenSource Technologien (z.b. Node.js, SaltStack, Puppet, New Relic, MongoDB, elasticsearch, Graylog2, Jenkins, Nginx, Varnish, VMWare, Linux, Mac OS X) 
-* Du bist vertraut mit Continuous Deployments unternehmenskritischer Webanwendungen mit Ansprich auf Zero-Downtime
-* Continuous Integration Systeme wie Jenkins, Teamcity, Bamboo und du sind enge Verbündete
+* Du bist vertraut mit Continuous Deployments unternehmenskritischer Webanwendungen mit Anspruch auf Zero-Downtime
+* Continuous Integration Systeme wie Jenkins, Teamcity, Bamboo und Du sind enge Verbündete
 * Neue Technologien siehst Du als Chance, nicht als unnötige Ablenkung
-* Alle Metriken deiner Webanwendungen sind visualisiert und verstanden 
+* Alle Metriken Deiner Webanwendungen sind visualisiert und verstanden 
 * Du beherrschst zumindest eine objektorientierte Sprache wie Java, Python oder Ruby (und hast eine gesunde Abneigung gegen Perl)
 * Dein GitHub Profil ist grün (und Du weißt was das heißt)
 * Du strebst immer nach der saubersten Lösung und einer gut dokumentierten Plattform
 * Du bist sehr flexibel, Probleme und Ideen kommunizierst Du früh, oft und regelmäßig
 
-Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spassiges Team sowie flache Hierarchien und große Flexibilität.
+Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spaßiges Team sowie flache Hierarchien und große Flexibilität.
 
 **Schicke uns Deinen aussagekräftigen Lebenslauf, gerne mit Referenzen an:
 pit+devops.gh@lusini.com.** 

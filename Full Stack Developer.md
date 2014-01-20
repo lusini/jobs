@@ -15,17 +15,17 @@ Unser Stack: Node.js, Rendr, Express, ElasticSearch, MongoDB, Grunt, Karma, Hand
 * Pair programmieren
 * Backlog groomen
 * Die agilen Prinzipien leben
-* Jeden Sprint besser zu werden
+* Jeden Sprint besser werden
 
 #### Deine Werkzeuge
 * Du bist ein[e] testgetriebene[r] Professional
-* Du kennst & kannst JavaScript auf hohem Niveau und vervolgst Neuerungen eng 
+* Du kennst & kannst JavaScript auf hohem Niveau und verfolgst Neuerungen eng 
 * Du hast zumindest erste Erfahrung mit dem Node.js Ecosystem gesammelt
 * Du nutzt moderne und effiziente Tools
 * Du bist kommunikationsfähig und -freudig
 * Du hast Erfahrung mit agiler Softwareentwicklung
 
-Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spassiges Team sowie flache Hierarchien und große Flexibilität.
+Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spaßiges Team sowie flache Hierarchien und große Flexibilität.
 
 **Schicke uns Deinen aussagekräftigen Lebenslauf, gerne mit Referenzen an:
 pit+fsd.gh@lusini.com.**

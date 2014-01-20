@@ -25,7 +25,7 @@ Derzeit skalieren wir unsere moderne e-Commerce Plattform europaweit für weiter
 * Du kannst Engineers genauso wie Product- und Business-Owner überzeugen
 * Du hast eine gesunde Abneigung gegen Perl und XML
 
-Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spassiges Team sowie flache Hierarchien und große Flexibilität.
+Wir entlohnen über dem Durchschnitt, es gibt 30 Tage Urlaub, ein großzügiges Budget für Ausbildungen und Konferenzbesuche, ein sehr nettes, cleveres und spaßiges Team sowie flache Hierarchien und große Flexibilität.
 
 **Schicke uns Deinen aussagekräftigen Lebenslauf, gerne mit Referenzen an:
 pit+ald.gh@lusini.com.**
